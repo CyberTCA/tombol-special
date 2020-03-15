@@ -6,7 +6,7 @@ echo "
 
 ######################
 # Welcome To my TOOLS #
-      By Mr.Tcg
+      By TN.RIJ4L
 #######################
 ";
 
